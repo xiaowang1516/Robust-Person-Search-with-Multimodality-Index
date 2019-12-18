@@ -6,4 +6,7 @@
 - To facilitate the research on multimodality for person search, we construct the Cast Search in Movies with Voice ([CSM-V](https://pan.baidu.com/s/18W-NsgTFLTNFdAdNAbtJfw)) dataset based on the [CSM dataset](https://pan.baidu.com/s/1JG30kPTWxJmf1saA0e6CLQ#list/path=%2F). CSM-V contains 127K annotated voices corresponding to tracklets from 192 movies.
 - We propose a cross-model of auditory and visual perception for person search with one portrait, which combines visual and voice representation to mine identity consistency in complex and variable environments.
 - An associative network is proposed to associate the multimodality from vision and voice. It can adaptively estimate the weights of each embedding to construct an appropriate representation in the identity index.
+# Framework
+  [Framework web]
+
 
